@@ -1,4 +1,5 @@
 package Gun01;
 
-public class Okul {evet
+public class Okul {
+
 }
